@@ -1,0 +1,1 @@
+# amazon-bedrock-text-generation-apps
